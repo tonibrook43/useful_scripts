@@ -49,7 +49,7 @@ def cross_reference_with_sra(titles):
 
 logging.info("finished SRA cross reference")
 
-file_path = '/home/tonib/scratch/SRA/csv-22199392-set.csv'
+file_path = 'path to your csv file'
 publication_titles = read_titles_csv(file_path)
 
 
